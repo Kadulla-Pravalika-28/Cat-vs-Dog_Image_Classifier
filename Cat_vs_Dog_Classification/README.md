@@ -29,7 +29,7 @@ This Project is a **Deep Learning-based Image classifier** that can distinguish 
 cat_dog_classifier/
 │
 ├── data/
-├── notebook.ipynb
+├── notebook
 │    └── Cat_vs_Dog.ipynb
 │
 ├── results
